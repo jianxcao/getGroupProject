@@ -1,0 +1,19 @@
+{
+  "name": "group",
+  "version": "1.0.0",
+  "description": "get group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "get",
+    "group",
+    "project"
+  ],
+  "author": "jxcao",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
