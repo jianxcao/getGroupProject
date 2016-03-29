@@ -11,6 +11,14 @@
     "group",
     "project"
   ],
+  "homepage": "https://github.com/jianxcao/getGroupProject",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jianxcao/getGroupProject.git"
+  },
+  "engines": {
+    "node": ">=4.40"
+  },
   "author": "jxcao",
   "license": "MIT",
   "dependencies": {
